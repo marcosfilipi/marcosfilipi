@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--**
 
 **marcosfilipi/marcosfilipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-### Olá 👋, Seu nome <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Olá 👋, Marcos Filipi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="#">
   <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </br></br>
 Faça uma breve aprensentação com sua <strong>Sua área</strong>.
 
-- :star: Escreva suas principais Skills: C# / .Net / Angular / etc..
+- :star: Escreva suas principais Skills: Flutter / java / JS / etc..
 
 - 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
