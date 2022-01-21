@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Flutter | Angular | SASS | HTML | JS |CSS3**
 
-- 🌱 I’m currently working for <a href="https://github.com/top-Ideias"/a>
-
 - 💬 Ask me about **Flutter | HTML | SASS | CSS3**
 
 - 📫 How to reach me **marcosfilipifranca@hotmail.com**
