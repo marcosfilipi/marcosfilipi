@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter | Angular | SASS | HTML | JS |CSS3**
 
-- 💬 Ask me about **Flutter | HTML | SASS CSS3**
+- 💬 Ask me about **Flutter | HTML | SASS | CSS3**
 
 - 📫 How to reach me **marcosfilipifranca@hotmail.com**
 
